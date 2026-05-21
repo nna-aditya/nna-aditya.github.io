@@ -12,3 +12,15 @@ body
     font-size: xx-large;
     font-family: "Raleway", sans-serif;
 }
+
+.textAlignCenter
+{
+    text-align: center;
+}
+
+a
+{
+    color: #f7597e;
+    display: block;
+    width: 100vw;
+}
